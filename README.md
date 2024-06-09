@@ -90,7 +90,23 @@ Define software maintenance and explain the different types of maintenance activ
 
 Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
-- Data Privacy- User data must be collected, processed and stored properly and securely. Data frameworks such as GDPR and 
+- Data Privacy- User data must be collected, processed and stored properly and securely. Data frameworks like GDPR and CCPA  and other frameworks focuses on protecting online user's data and privacy.
+- Accessibility- Software touches lives of many people so it must be inclusive and easy to access to all groups of people. Software must be compatible and ensures that everyone has the right and ability to engage with software.
+- Addictive design- Consumer apps are so addictive and keeps users engaged. Software engineers must always consider how their on apps impact the lives of users. Ethical software designers must make sure their apps enrich user's life not mamipulate them.
+- Bias of the Algorithm- Data fed to the algorithms must be clean not biased because AI can be used to manipulate algorithms.
+- Software security- Safety is of utmost importance because when bugs or recklessly made features invade departments like the health system many people's lives can be endagered.Secure coding  practices must be used be engineeers to protect both the software and the people.
+- REFERENCES
+-https://www.mtu.edu
+-https://geek4geeks.com
+-https://productmanager.com
+-https://softwaremind.com
+-https://serverside.com
+-https://techtarget.com 
+-https://codeinstute.net
+-https://kombea.com
+-https://x-team.com
+
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
